@@ -30,7 +30,7 @@ I focus on systems where performance actually matters:
 │                    │                                      │                              │
 │ Scalable LMS System│ High-latency cloud file retrieval    │ 100× faster via Redis cache  │
 │                    │                                      │                              │
-│ GeoNotes           │ Context-aware geological note-taking │ 1st Place · Catalyst Hack    │
+│ GeoNotes           │ Context-aware geological note-taking │ Overall Best · Catalyst Hack │
 │                    │                                      │                              │
 │ E-Commerce Engine  │ Full-stack MVC + inventory management│ PostgreSQL · Express         │
 └────────────────────┴──────────────────────────────────────┴──────────────────────────────┘
