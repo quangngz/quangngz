@@ -1,21 +1,14 @@
 ```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│                           TRAN QUANG NGUYEN                              │
-│                                                                          │
-│            Computing Software & Systems @ University of Melbourne        │
-│                                                                          │
-│ Building high-performance systems · Optimizing algorithms · Algo Trade   │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
+Hello! I'm quangngz, and below are some info about me: 
 
 ────────────────────────────────────────────────────────────────────────────
 ▌ ABOUT
 ────────────────────────────────────────────────────────────────────────────
 
-I focus on systems where performance actually matters:
+Currently, I am a 2nd year Computer and Software Systems student @ Unimelb
+
+My focus:
 - low-level optimization
-- cache-aware algorithms
 - distributed backends
 - data-driven decision systems
 
