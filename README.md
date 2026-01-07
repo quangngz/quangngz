@@ -25,17 +25,17 @@ I focus on systems where performance actually matters:
 ▌ FEATURED PROJECTS
 ────────────────────────────────────────────────────────────────────────────
 
-┌───────────────────────┬───────────────────────────────────────────┬──────────────────────────────┐
-│ PROJECT               │ DESCRIPTION                               │ METRICS                      │
-├───────────────────────┼───────────────────────────────────────────┼──────────────────────────────┤
-│ Gomoku AI Bot         │ Recursive search + pruning in C           │ 90% L1 hit · 100% win rate   │
-│                       │                                           │                              │
-│ Scalable LMS System   │ High-latency cloud file retrieval          │ 100× faster via Redis cache │
-│                       │                                           │                              │
-│ GeoNotes              │ Context-aware geological note-taking      │ 1st Place · Catalyst Hack    │
-│                       │                                           │                              │
-│ E-Commerce Engine     │ Full-stack MVC + inventory management     │ PostgreSQL · Express         │
-└───────────────────────┴───────────────────────────────────────────┴──────────────────────────────┘
+┌────────────────────┬──────────────────────────────────────┬──────────────────────────────┐
+│ PROJECT            │ DESCRIPTION                          │ METRICS                      │
+├────────────────────┼──────────────────────────────────────┼──────────────────────────────┤
+│ Gomoku AI Bot      │ Recursive search + pruning in C      │ 90% L1 hit · 100% win rate   │
+│                    │                                      │                              │
+│ Scalable LMS System│ High-latency cloud file retrieval    │ 100× faster via Redis cache  │
+│                    │                                      │                              │
+│ GeoNotes           │ Context-aware geological note-taking │ 1st Place · Catalyst Hack    │
+│                    │                                      │                              │
+│ E-Commerce Engine  │ Full-stack MVC + inventory management│ PostgreSQL · Express         │
+└────────────────────┴──────────────────────────────────────┴──────────────────────────────┘
 
 → Source Code
    - Gomoku AI Bot       : https://github.com/quangngz/GOMOKU_AI
